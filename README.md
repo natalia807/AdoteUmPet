@@ -47,7 +47,7 @@ Para garantir a segurança das informações dos usuários, o projeto conta com 
 ## 🗃 Rodando a aplicação no back-end
 ```bash
 # Clone este repositório
-$ git clone git@github.com:Klosban/getapet.git
+$ git clone (https://github.com/natalia807/AdoteUmPet.git)
 
 # Vá para a pasta backend
 $ cd backend
